@@ -1,5 +1,5 @@
 # 👋 Bonjour
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florentguittre&theme=dark">
+[![florentguittre's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florentguittre&theme=blue-green)](https://github.com/florentguittre?tab=repositories)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=florentguittre&theme=dark">
+[![florentguittre's github streak](https://github-readme-streak-stats.herokuapp.com/?user=florentguittre&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
