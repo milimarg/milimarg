@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=florentg314&theme=blue-green">
   </a>
   <a href="https://github.com/florentguittre?tab=repositorie">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=florentg314&theme=blue-green&layout=compact">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=florentg314&theme=blue-green&layout=compact&langs_count=10">
   </a>
 </div>
 
