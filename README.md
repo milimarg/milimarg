@@ -46,6 +46,7 @@
 
 # Currently learning
 
-![ASM](https://img.shields.io/badge/ASM-6E4C13?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=asm)
+![ASM x86_64](https://img.shields.io/badge/ASM_x86_64-6E4C13?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=asm)
+![ASM ARMv8 64-bit](https://img.shields.io/badge/ASM_ARMv8_64_bit-6E4C13?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=asm)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&labelColor=453a61&logoColor=8e4e8c&logo=haskell)
