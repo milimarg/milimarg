@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=7289DA&vCenter=true&width=435&lines=Howdy%2C+I'm+Florent+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-❤️ Computer lover. <br />
-🛜 Sysadmin & Embedded Systems enthusiast. <br />
+❤️ Computer lover <br />
+🛜 Sysadmin & Embedded Systems enthusiast <br />
 <br />
 
 <div>
