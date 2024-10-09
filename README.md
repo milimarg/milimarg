@@ -44,3 +44,4 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&labelColor=453a61&logoColor=8e4e8c&logo=haskell)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
