@@ -2,7 +2,7 @@
 
 <br />
 
-Checking for my personal projects? Check [here](https://codeberg.org/milimarg)!
+Checking for my personal projects? It's [here](https://codeberg.org/milimarg)!
 
 <br />
 
