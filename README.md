@@ -6,6 +6,10 @@ Checking for my personal projects? It's [here](https://codeberg.org/milimarg)!
 
 <br />
 
+Checking for my Epitech projects? It's [here](https://codeberg.org/milimarg/Epitech-Projects)!
+
+<br />
+
 <div>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=milimarg&theme=blue-green">
