@@ -8,17 +8,6 @@ Checking for my personal projects? It's [here](https://codeberg.org/milimarg)!
 
 Checking for my Epitech projects? It's [here](https://codeberg.org/milimarg/Epitech-Projects)!
 
-<br />
-
-<div>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=milimarg&theme=blue-green">
-  </a>
-  <a href="https://github.com/florentguittre?tab=repositorie">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milimarg&theme=blue-green&layout=compact&langs_count=6">
-  </a>
-</div>
-
 # Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
